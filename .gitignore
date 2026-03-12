@@ -34,6 +34,3 @@ temp/
 
 # Nest CLI cache
 .nest-cli.json
-
-# optional
-package-lock.json
